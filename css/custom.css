@@ -1,0 +1,57 @@
+#affiliationsTable {
+    margin: 0% 20% 0% 20%;
+    border: none;
+}
+
+#mayberryContact {
+    margin: 0% 20% 0% 20%;
+}
+
+#cardBack {
+    display: block;
+    margin: 0% 25% 0% 20%;
+    width: 60%;
+    background-color: lightblue;
+}
+
+.collection with-header {
+    width: 30%;
+    margin-left: 20%;
+    display: inline-block;
+    outline: transparent;
+}
+
+#coursesTable {
+    margin: 0% 20% 0% 20%;
+    border: none;
+}
+
+#mayberryDiv {
+    margin: 0% 20% 0% 20%;
+}
+
+a#link {
+    color: lightblue;
+}
+
+.card-image .card-title h4 {
+    font-family: sans-serif;
+}
+
+#indexCard {
+    margin: 0% 20% 0% 20%;
+}
+
+.nav-wrapper, footer.page-footer {
+    background-color: lightblue;
+}
+
+#buildingImg {
+    max-width: 300px;
+    max-height: auto;
+}
+
+@font-face {
+    font-family: "Chronicle";
+    src: "fonts/chronicle/Chronicle.otf";
+}
