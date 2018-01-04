@@ -1,0 +1,173 @@
+
+#ucsdLogo {
+    
+width: 70%;
+margin-left: 180px;
+}
+
+.card-action a {
+    color: #4f85bb;
+}
+
+li .indicator {
+    background-color: #4f85bb;
+}
+
+#col s12 m7 {
+    display: inline-grid;
+}
+
+#participateCard {
+    background-color: #A7C9E9;
+    color: black;
+    border-radius: 0.2%;
+}
+
+#participation-scn {
+    background-color: #4f85bb;
+    padding: 0px;
+   
+  
+}
+
+.responsive-video {
+    padding-left: 20%;
+}
+
+#intro {
+    font-size: 35px;
+}
+
+#ucsdLogo {
+    width: 100%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#welcome {
+    font-size: 25px;
+    padding-top: 265px;
+    padding-bottom: 265px;
+    
+}
+
+#participate-scn {
+    margin: 0px;
+    background-color: #4f85bb;
+    color: white;
+    font-size: 18px;
+    padding: 50px;
+}
+
+#participate-btn {
+    background-color: #4f85bb;
+    margin: 0 50px 0 50%;
+}
+
+#welcome {
+    margin-bottom: 20px;
+    /* opacity: 0.75; */
+    text-align: justify;
+    background-color: transparent;
+    position: inherit;
+    
+}
+
+#welcome btn {
+    color: white;
+}
+
+ #welcome h1, p {
+    color:white;
+    align-content: left;
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+    height: 100%;
+    padding-top: 90px; 
+} 
+
+#indexCard {
+    width: relative;
+}
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+
+#image {
+    position: relative;
+    
+    padding: 100px;
+}
+
+#content {
+    height: 750px;
+    font-size:x-large;
+    padding: 5%;
+    padding-top: -20px;
+    margin-top: -20px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+    border:inset;
+}
+
+#affiliationsTable {
+    margin: 0% 20% 0% 20%;
+    border: none;
+}
+
+#mayberryContact {
+    margin: 0% 20% 0% 20%;
+}
+
+#cardBack {
+    display: block;
+    margin: 0% 25% 0% 20%;
+    width: 60%;
+    background-color: lightblue;
+}
+
+.collection with-header {
+    width: 30%;
+    margin-left: 20%;
+    display: inline-block;
+    outline: transparent;
+}
+
+#coursesTable {
+    margin: 0% 20% 0% 20%;
+    border: none;
+}
+
+#mayberryDiv {
+    margin: 0% 20% 0% 20%;
+}
+
+a#link {
+    color: lightblue;
+}
+
+.card-image .card-title h4 {
+    font-family: sans-serif;
+}
+
+#indexCard {
+    margin: 0% 20% 0% 20%;
+}
+
+.nav-wrapper, footer.page-footer {
+    background-color: #4f85bb;
+}
+
+#buildingImg {
+    max-width: 300px;
+    max-height: auto;
+}
+
+@font-face {
+    font-family: "Chronicle";
+    src: "fonts/chronicle/Chronicle.otf";
+}
