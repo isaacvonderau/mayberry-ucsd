@@ -1,3 +1,20 @@
+h4, h2 {
+    color: #4f85bb
+}
+
+.container .card-panel {
+    margin-top: 5%
+}
+
+.card-panel h3 {
+    text-align: center;
+    color: #4f85bb
+}
+
+div a {
+    color: #4f85bb
+}
+
 .nav-wrapper a {
  font-size: 1em;   
 }
@@ -69,7 +86,8 @@ li .indicator {
 
 #participate-btn {
     background-color: #4f85bb;
-    margin: 0 50px 0 50%;
+    margin-left: 46%;
+    margin-top: 5%
 }
 
 #welcome {
