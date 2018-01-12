@@ -1,6 +1,4 @@
-h4, h2 {
-    color: #4f85bb
-}
+
 
 .container .card-panel {
     margin-top: 5%
@@ -8,7 +6,7 @@ h4, h2 {
 
 .card-panel h3 {
     text-align: center;
-    color: #4f85bb
+    
 }
 
 div a {
@@ -103,14 +101,13 @@ li .indicator {
     color: white;
 }
 
- #welcome h1, p {
-    color:white;
-    align-content: left;
-    padding: 50px;
+ #welcome h1, {
+   
+    padding: 20px;
     text-align: center;
     margin: auto;
     height: 100%;
-    padding-top: 90px; 
+   
 } 
 
 #indexCard {
