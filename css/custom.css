@@ -1,6 +1,13 @@
+/* .tabs .tab a {
+    color: #4f85bb
+}
+
+.tabs .tab a:hover {
+    color: #4f85bb
+}
+
 #sort {
-    text-align: center;
-    display: block;
+    color: #4f85bb
 }
 
 
@@ -10,7 +17,12 @@ ul {
 
 ul li {
     display: inline-block;
+    color: #4f85bb;
 }
+
+ul li a {
+    color: #4f85bb
+} */
 
 .titles {
     text-align: center
